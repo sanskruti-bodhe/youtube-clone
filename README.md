@@ -19,22 +19,22 @@ Website Link: https://atinder11.github.io/Youtube-Clone/
 ## ScreenShot:
 1.Landing Page:
 <br>
-![image](https://github.com/sanskruti12/Youtube-Clone/assets/111070211/de33f88c-424d-4fb1-8c82-5e330ad9cf64)
-![image](https://github.com/sanskruti12Youtube-Clone/assets/111070211/8700fa58-88b9-4414-a25a-048995caf247)
+![image](https://github.com/atinder11/Youtube-Clone/assets/111070211/de33f88c-424d-4fb1-8c82-5e330ad9cf64)
+![image](https://github.com/atinder11/Youtube-Clone/assets/111070211/8700fa58-88b9-4414-a25a-048995caf247)
 <br>
 
 2.Hiding the sidebar
 
-![image](https://github.com//sanskruti12 /Youtube-Clone/assets/111070211/47b98e09-15e1-464f-b82d-2ab632162a4d)
+![image](https://github.com//atinder11/Youtube-Clone/assets/111070211/47b98e09-15e1-464f-b82d-2ab632162a4d)
 <br>
 
 3.Playing Video
 
-![image](https://github.com//sanskruti12/Youtube-Clone/assets/111070211/917e5953-9db7-43f4-bcb4-3b9509a6e0e7)
+![image](https://github.com//atinder11/Youtube-Clone/assets/111070211/917e5953-9db7-43f4-bcb4-3b9509a6e0e7)
 
 4.Comment Section
 
-![image](https://github.com//sanskruti12/Youtube-Clone/assets/111070211/dcbdd3bd-f411-4c4d-956f-95d90bc37db6)
+![image](https://github.com//atinder11/Youtube-Clone/assets/111070211/dcbdd3bd-f411-4c4d-956f-95d90bc37db6)
 
 
 
