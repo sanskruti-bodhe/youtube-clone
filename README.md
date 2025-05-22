@@ -25,7 +25,9 @@ Website Link: https://sanskruti-bodhe.github.io/Youtube-Clone/
 
 2.Hiding the sidebar
 
-![image](https://github.com//atinder11/Youtube-Clone/assets/111070211/47b98e09-15e1-464f-b82d-2ab632162a4d)
+![image](![2](![Uploading 2.JPG…]()
+)
+)
 <br>
 
 3.Playing Video
