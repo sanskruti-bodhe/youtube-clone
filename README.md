@@ -25,7 +25,8 @@ Website Link: https://sanskruti-bodhe.github.io/Youtube-Clone/
 
 2.Hiding the sidebar
 
-![image](![2](![Uploading 2.JPG…]()
+![image](![2](https://github.com/user-attachments/assets/d9a9c646-f399-4e5b-939d-c488ddfd395d)
+)
 )
 )
 <br>
